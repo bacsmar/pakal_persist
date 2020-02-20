@@ -37,6 +37,7 @@
 #pragma once
 
 #include <string>
+#include <cstring>
 #include "PersistUtils.h"
 #include <map>
 #include <vector>
