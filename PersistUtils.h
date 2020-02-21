@@ -1,7 +1,7 @@
 /**
 * Pakal persist serializer - version 1.0
 * --------------------------------------------------------
-* Copyright (C) 2015-2020, by Luis Alberto Gudiño Salinas (elios264@hotmail.com)
+* Copyright (C) 2015-2020, by Luis Alberto GudiÃ±o Salinas (elios264@hotmail.com)
 * Report bugs and download new versions at https://github.com/elios264/pakal_persist
 *
 * This library is distributed under the MIT License. See notice at the end
